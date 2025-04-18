@@ -1,4 +1,4 @@
-Live Link: https://educational-demo1.netlify.app/
+Live Link: https://educational-demo-by-smit.netlify.app/
 
 # React + Vite
 
